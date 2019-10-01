@@ -1,3 +1,5 @@
+from internet import *
+
 import tweepy
 import sys
 import json
