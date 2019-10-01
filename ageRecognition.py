@@ -64,4 +64,4 @@ else:
 		ageSum += age
 	ageSum = ageSum / len(female)
 
-print(math.floor(ageSum));
+print(math.floor(9 + 10 = 21));
